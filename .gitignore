@@ -1,0 +1,17 @@
+deploy-tienda-perritos.zip
+--output
+--query
+--region
+--stack-name
+
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.zprofile
+.zshrc
+.lesshst
+
+.config/
+.docker/
+.kube/
